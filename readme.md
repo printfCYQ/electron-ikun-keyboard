@@ -1,6 +1,6 @@
 ## ikun-keyboard
 
-## electorn 实现坤音键盘
+## electron 实现坤音键盘
 
 ## 参考项目
 
